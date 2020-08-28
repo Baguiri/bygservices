@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bygservices/static/css/main.8663f654.chunk.css",
+    "main.js": "/bygservices/static/js/main.17e939b2.chunk.js",
+    "main.js.map": "/bygservices/static/js/main.17e939b2.chunk.js.map",
+    "runtime-main.js": "/bygservices/static/js/runtime-main.5a40b395.js",
+    "runtime-main.js.map": "/bygservices/static/js/runtime-main.5a40b395.js.map",
+    "static/css/2.21f511eb.chunk.css": "/bygservices/static/css/2.21f511eb.chunk.css",
+    "static/js/2.3dc69970.chunk.js": "/bygservices/static/js/2.3dc69970.chunk.js",
+    "static/js/2.3dc69970.chunk.js.map": "/bygservices/static/js/2.3dc69970.chunk.js.map",
+    "index.html": "/bygservices/index.html",
+    "precache-manifest.9bea00d9deb07b9b15aebaf1efbe78df.js": "/bygservices/precache-manifest.9bea00d9deb07b9b15aebaf1efbe78df.js",
+    "service-worker.js": "/bygservices/service-worker.js",
+    "static/css/2.21f511eb.chunk.css.map": "/bygservices/static/css/2.21f511eb.chunk.css.map",
+    "static/css/main.8663f654.chunk.css.map": "/bygservices/static/css/main.8663f654.chunk.css.map",
+    "static/js/2.3dc69970.chunk.js.LICENSE.txt": "/bygservices/static/js/2.3dc69970.chunk.js.LICENSE.txt",
+    "static/media/MTS.jpg": "/bygservices/static/media/MTS.188f43d2.jpg",
+    "static/media/baguiri.jpg": "/bygservices/static/media/baguiri.41db73ab.jpg",
+    "static/media/digital-marketing.jpg": "/bygservices/static/media/digital-marketing.67bad01c.jpg",
+    "static/media/eras1.jpg": "/bygservices/static/media/eras1.66ba5528.jpg",
+    "static/media/logo.jpg": "/bygservices/static/media/logo.45332362.jpg",
+    "static/media/logo1.jpg": "/bygservices/static/media/logo1.6d2165d8.jpg",
+    "static/media/nego.jpg": "/bygservices/static/media/nego.d6d88a25.jpg",
+    "static/media/sale.jpg": "/bygservices/static/media/sale.2aacdc00.jpg",
+    "static/media/about.scss": "/bygservices/static/media/sky.6a2b88e3.jpg",
+    "static/media/home.scss": "/bygservices/static/media/stock1.bd1176ba.jpg",
+    "static/media/stock4.jpg": "/bygservices/static/media/stock4.7d03ccda.jpg",
+    "static/media/contactall.scss": "/bygservices/static/media/world.e2ca4849.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a40b395.js",
+    "static/css/2.21f511eb.chunk.css",
+    "static/js/2.3dc69970.chunk.js",
+    "static/css/main.8663f654.chunk.css",
+    "static/js/main.17e939b2.chunk.js"
+  ]
+}
