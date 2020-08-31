@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bygservices/static/css/main.8663f654.chunk.css",
-    "main.js": "/bygservices/static/js/main.17e939b2.chunk.js",
-    "main.js.map": "/bygservices/static/js/main.17e939b2.chunk.js.map",
-    "runtime-main.js": "/bygservices/static/js/runtime-main.5a40b395.js",
-    "runtime-main.js.map": "/bygservices/static/js/runtime-main.5a40b395.js.map",
-    "static/css/2.21f511eb.chunk.css": "/bygservices/static/css/2.21f511eb.chunk.css",
-    "static/js/2.3dc69970.chunk.js": "/bygservices/static/js/2.3dc69970.chunk.js",
-    "static/js/2.3dc69970.chunk.js.map": "/bygservices/static/js/2.3dc69970.chunk.js.map",
+    "main.js": "/bygservices/static/js/main.1cb18b2e.chunk.js",
+    "main.js.map": "/bygservices/static/js/main.1cb18b2e.chunk.js.map",
+    "runtime-main.js": "/bygservices/static/js/runtime-main.34cd7172.js",
+    "runtime-main.js.map": "/bygservices/static/js/runtime-main.34cd7172.js.map",
+    "static/css/2.7ec6336c.chunk.css": "/bygservices/static/css/2.7ec6336c.chunk.css",
+    "static/js/2.99c89099.chunk.js": "/bygservices/static/js/2.99c89099.chunk.js",
+    "static/js/2.99c89099.chunk.js.map": "/bygservices/static/js/2.99c89099.chunk.js.map",
     "index.html": "/bygservices/index.html",
-    "precache-manifest.9bea00d9deb07b9b15aebaf1efbe78df.js": "/bygservices/precache-manifest.9bea00d9deb07b9b15aebaf1efbe78df.js",
+    "precache-manifest.8034d4e05e1a22baa1e6704b97008f8f.js": "/bygservices/precache-manifest.8034d4e05e1a22baa1e6704b97008f8f.js",
     "service-worker.js": "/bygservices/service-worker.js",
-    "static/css/2.21f511eb.chunk.css.map": "/bygservices/static/css/2.21f511eb.chunk.css.map",
+    "static/css/2.7ec6336c.chunk.css.map": "/bygservices/static/css/2.7ec6336c.chunk.css.map",
     "static/css/main.8663f654.chunk.css.map": "/bygservices/static/css/main.8663f654.chunk.css.map",
-    "static/js/2.3dc69970.chunk.js.LICENSE.txt": "/bygservices/static/js/2.3dc69970.chunk.js.LICENSE.txt",
+    "static/js/2.99c89099.chunk.js.LICENSE.txt": "/bygservices/static/js/2.99c89099.chunk.js.LICENSE.txt",
     "static/media/MTS.jpg": "/bygservices/static/media/MTS.188f43d2.jpg",
     "static/media/baguiri.jpg": "/bygservices/static/media/baguiri.41db73ab.jpg",
     "static/media/digital-marketing.jpg": "/bygservices/static/media/digital-marketing.67bad01c.jpg",
@@ -28,10 +28,10 @@
     "static/media/contactall.scss": "/bygservices/static/media/world.e2ca4849.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a40b395.js",
-    "static/css/2.21f511eb.chunk.css",
-    "static/js/2.3dc69970.chunk.js",
+    "static/js/runtime-main.34cd7172.js",
+    "static/css/2.7ec6336c.chunk.css",
+    "static/js/2.99c89099.chunk.js",
     "static/css/main.8663f654.chunk.css",
-    "static/js/main.17e939b2.chunk.js"
+    "static/js/main.1cb18b2e.chunk.js"
   ]
 }
