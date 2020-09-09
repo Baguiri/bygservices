@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bygservices/static/css/main.3c387871.chunk.css",
-    "main.js": "/bygservices/static/js/main.d5159854.chunk.js",
-    "main.js.map": "/bygservices/static/js/main.d5159854.chunk.js.map",
+    "main.css": "/bygservices/static/css/main.4fb11d50.chunk.css",
+    "main.js": "/bygservices/static/js/main.3e358c1d.chunk.js",
+    "main.js.map": "/bygservices/static/js/main.3e358c1d.chunk.js.map",
     "runtime-main.js": "/bygservices/static/js/runtime-main.34cd7172.js",
     "runtime-main.js.map": "/bygservices/static/js/runtime-main.34cd7172.js.map",
     "static/css/2.7ec6336c.chunk.css": "/bygservices/static/css/2.7ec6336c.chunk.css",
-    "static/js/2.3f4be62e.chunk.js": "/bygservices/static/js/2.3f4be62e.chunk.js",
-    "static/js/2.3f4be62e.chunk.js.map": "/bygservices/static/js/2.3f4be62e.chunk.js.map",
+    "static/js/2.378e7b79.chunk.js": "/bygservices/static/js/2.378e7b79.chunk.js",
+    "static/js/2.378e7b79.chunk.js.map": "/bygservices/static/js/2.378e7b79.chunk.js.map",
     "index.html": "/bygservices/index.html",
-    "precache-manifest.63f551ad8ba4f73870cca1a158f3f1a9.js": "/bygservices/precache-manifest.63f551ad8ba4f73870cca1a158f3f1a9.js",
+    "precache-manifest.8baec5282065193c8a6fd60a551bbfe7.js": "/bygservices/precache-manifest.8baec5282065193c8a6fd60a551bbfe7.js",
     "service-worker.js": "/bygservices/service-worker.js",
     "static/css/2.7ec6336c.chunk.css.map": "/bygservices/static/css/2.7ec6336c.chunk.css.map",
-    "static/css/main.3c387871.chunk.css.map": "/bygservices/static/css/main.3c387871.chunk.css.map",
-    "static/js/2.3f4be62e.chunk.js.LICENSE.txt": "/bygservices/static/js/2.3f4be62e.chunk.js.LICENSE.txt",
+    "static/css/main.4fb11d50.chunk.css.map": "/bygservices/static/css/main.4fb11d50.chunk.css.map",
+    "static/js/2.378e7b79.chunk.js.LICENSE.txt": "/bygservices/static/js/2.378e7b79.chunk.js.LICENSE.txt",
     "static/media/MTS.jpg": "/bygservices/static/media/MTS.188f43d2.jpg",
     "static/media/baguiri.jpg": "/bygservices/static/media/baguiri.41db73ab.jpg",
     "static/media/container.jpg": "/bygservices/static/media/container.9119f996.jpg",
@@ -21,14 +21,14 @@
     "static/media/eras1.jpg": "/bygservices/static/media/eras1.66ba5528.jpg",
     "static/media/logo.jpg": "/bygservices/static/media/logo.45332362.jpg",
     "static/media/logo1.jpg": "/bygservices/static/media/logo1.6d2165d8.jpg",
-    "static/media/about.scss": "/bygservices/static/media/sky.6a2b88e3.jpg",
+    "static/media/product.scss": "/bygservices/static/media/sky.6a2b88e3.jpg",
     "static/media/warehouse1.jpg": "/bygservices/static/media/warehouse1.7d03ccda.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.34cd7172.js",
     "static/css/2.7ec6336c.chunk.css",
-    "static/js/2.3f4be62e.chunk.js",
-    "static/css/main.3c387871.chunk.css",
-    "static/js/main.d5159854.chunk.js"
+    "static/js/2.378e7b79.chunk.js",
+    "static/css/main.4fb11d50.chunk.css",
+    "static/js/main.3e358c1d.chunk.js"
   ]
 }
