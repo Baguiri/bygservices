@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/bygservices/static/css/main.c3c0e9b2.chunk.css",
-    "main.js": "/bygservices/static/js/main.c4e64cb3.chunk.js",
-    "main.js.map": "/bygservices/static/js/main.c4e64cb3.chunk.js.map",
+    "main.css": "/bygservices/static/css/main.4d730104.chunk.css",
+    "main.js": "/bygservices/static/js/main.16f3cd77.chunk.js",
+    "main.js.map": "/bygservices/static/js/main.16f3cd77.chunk.js.map",
     "runtime-main.js": "/bygservices/static/js/runtime-main.34cd7172.js",
     "runtime-main.js.map": "/bygservices/static/js/runtime-main.34cd7172.js.map",
     "static/css/2.7ec6336c.chunk.css": "/bygservices/static/css/2.7ec6336c.chunk.css",
-    "static/js/2.eae2a4cb.chunk.js": "/bygservices/static/js/2.eae2a4cb.chunk.js",
-    "static/js/2.eae2a4cb.chunk.js.map": "/bygservices/static/js/2.eae2a4cb.chunk.js.map",
+    "static/js/2.9f6f4e36.chunk.js": "/bygservices/static/js/2.9f6f4e36.chunk.js",
+    "static/js/2.9f6f4e36.chunk.js.map": "/bygservices/static/js/2.9f6f4e36.chunk.js.map",
     "index.html": "/bygservices/index.html",
-    "precache-manifest.cde29a972537b21f7527ea7adaa0da56.js": "/bygservices/precache-manifest.cde29a972537b21f7527ea7adaa0da56.js",
+    "precache-manifest.db6031e0f45aab387a2d06727d03d68f.js": "/bygservices/precache-manifest.db6031e0f45aab387a2d06727d03d68f.js",
     "service-worker.js": "/bygservices/service-worker.js",
     "static/css/2.7ec6336c.chunk.css.map": "/bygservices/static/css/2.7ec6336c.chunk.css.map",
-    "static/css/main.c3c0e9b2.chunk.css.map": "/bygservices/static/css/main.c3c0e9b2.chunk.css.map",
-    "static/js/2.eae2a4cb.chunk.js.LICENSE.txt": "/bygservices/static/js/2.eae2a4cb.chunk.js.LICENSE.txt",
+    "static/css/main.4d730104.chunk.css.map": "/bygservices/static/css/main.4d730104.chunk.css.map",
+    "static/js/2.9f6f4e36.chunk.js.LICENSE.txt": "/bygservices/static/js/2.9f6f4e36.chunk.js.LICENSE.txt",
+    "static/media/18li.jpg": "/bygservices/static/media/18li.46334147.jpg",
     "static/media/MTS.jpg": "/bygservices/static/media/MTS.188f43d2.jpg",
     "static/media/container.jpg": "/bygservices/static/media/container.9119f996.jpg",
     "static/media/container1.jpg": "/bygservices/static/media/container1.b27d23f4.jpg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.34cd7172.js",
     "static/css/2.7ec6336c.chunk.css",
-    "static/js/2.eae2a4cb.chunk.js",
-    "static/css/main.c3c0e9b2.chunk.css",
-    "static/js/main.c4e64cb3.chunk.js"
+    "static/js/2.9f6f4e36.chunk.js",
+    "static/css/main.4d730104.chunk.css",
+    "static/js/main.16f3cd77.chunk.js"
   ]
 }
