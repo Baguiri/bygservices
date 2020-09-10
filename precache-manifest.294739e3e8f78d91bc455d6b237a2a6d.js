@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4753c2c1f447ca529d7e0a645f065dc2",
+    "revision": "08ed50c02e4d2cd12b061d93a9f5d0a3",
     "url": "/bygservices/index.html"
   },
   {
-    "revision": "1e7926f7cd6469cf1f0c",
+    "revision": "9dec9475b155cfc81820",
     "url": "/bygservices/static/css/2.7ec6336c.chunk.css"
   },
   {
-    "revision": "dd33b2172e4a25327bed",
-    "url": "/bygservices/static/css/main.77999a44.chunk.css"
+    "revision": "b56a8e9e5abf292dc8c8",
+    "url": "/bygservices/static/css/main.79ecce4c.chunk.css"
   },
   {
-    "revision": "1e7926f7cd6469cf1f0c",
-    "url": "/bygservices/static/js/2.378e7b79.chunk.js"
+    "revision": "9dec9475b155cfc81820",
+    "url": "/bygservices/static/js/2.eae2a4cb.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/bygservices/static/js/2.378e7b79.chunk.js.LICENSE.txt"
+    "url": "/bygservices/static/js/2.eae2a4cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd33b2172e4a25327bed",
-    "url": "/bygservices/static/js/main.3e358c1d.chunk.js"
+    "revision": "b56a8e9e5abf292dc8c8",
+    "url": "/bygservices/static/js/main.56768fc4.chunk.js"
   },
   {
     "revision": "29d94ec56813db4dfede",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "188f43d2df5014ef9a54359d2e9d902b",
     "url": "/bygservices/static/media/MTS.188f43d2.jpg"
-  },
-  {
-    "revision": "41db73ab32e8c919cb9958ece6fb8596",
-    "url": "/bygservices/static/media/baguiri.41db73ab.jpg"
   },
   {
     "revision": "9119f9968df20801fffd6bed20b4a552",
@@ -54,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d2165d8545c6b6b41ceaef88691d5bb",
     "url": "/bygservices/static/media/logo1.6d2165d8.jpg"
-  },
-  {
-    "revision": "6a2b88e3c36e8d0e153f915965d43d9d",
-    "url": "/bygservices/static/media/sky.6a2b88e3.jpg"
   },
   {
     "revision": "7d03ccda9478ef8d49eb7453d7b83cca",
