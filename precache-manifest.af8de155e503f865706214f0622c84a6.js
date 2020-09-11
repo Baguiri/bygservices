@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7faa86e6417e1691d35b5ecd40636096",
+    "revision": "b9b5c719349c8fd8ce31b680c784c65a",
     "url": "/bygservices/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bygservices/static/css/2.7ec6336c.chunk.css"
   },
   {
-    "revision": "1d873aa72405616f5ddc",
+    "revision": "aed7b70f8a9a8dc35c16",
     "url": "/bygservices/static/css/main.f6616379.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bygservices/static/js/2.76e45b28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d873aa72405616f5ddc",
-    "url": "/bygservices/static/js/main.ea887c35.chunk.js"
+    "revision": "aed7b70f8a9a8dc35c16",
+    "url": "/bygservices/static/js/main.150637bc.chunk.js"
   },
   {
     "revision": "29d94ec56813db4dfede",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bygservices/static/media/logo1.6d2165d8.jpg"
   },
   {
-    "revision": "7d03ccda9478ef8d49eb7453d7b83cca",
-    "url": "/bygservices/static/media/warehouse1.7d03ccda.jpg"
+    "revision": "22bc8aeecd7900a924d58607a9bdc8e3",
+    "url": "/bygservices/static/media/warehouse3.22bc8aee.jpg"
   }
 ]);
